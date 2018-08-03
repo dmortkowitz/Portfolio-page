@@ -38,7 +38,7 @@ Please contact me at dmortkowitz[at]gmail.com for more information.
 
 ## Link to GitHub Pages
 
-https://github.com/dmortkowitz/Portfolio-page
+dmortkowitz.github.io/portfolio-site
 
 
 #### Copyright (c) 2018 David Mortkowitz
